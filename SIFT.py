@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 np.set_printoptions(4)
 import math
+import numpy
 
 # Load the images
 img1 = cv2.imread('D:/download/video2img/test_4/0000000010.jpg', cv2.IMREAD_GRAYSCALE)
